@@ -42,7 +42,7 @@ python main.py
 
 ## 📸 Screenshot (Optional)
 ## 📸 Screenshot
-![Gameplay Screenshot](assets/screenshot1.png) 
+![Gameplay Screenshot](screenshot.png) 
 
 ---
 
